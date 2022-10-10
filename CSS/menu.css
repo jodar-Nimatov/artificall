@@ -1,0 +1,28 @@
+.navbar {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 22px;
+    padding: 17px 34px 16px;
+}
+.navbar-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    max-width: 255px;
+    margin-right: 30px;
+}
+.navbar-inner ul{
+    display: flex;
+    list-style: none;
+    text-transform: uppercase;
+    column-gap: 25px;
+}
+
+.navbar-inner .links {
+    text-decoration: none;
+    color: #fff;
+
+}

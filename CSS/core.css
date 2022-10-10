@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.container {
+    width: 1150px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
